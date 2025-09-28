@@ -6,10 +6,10 @@ The functions and networks, together with computational examples in Mathematica 
 
 - The Mathematica notebook for model with sixplet ["Sixplet.nb"](https://github.com/jurciukonis/ML-for-multiples/blob/main/Sixplet.nb).
 
-- For more information about the models and obtained results see refs. [[1](https://arxiv.org/abs/2404.07897)] and [[2](https://arxiv.org/abs/2505.05272)].
+- For more information about the models and obtained results see Refs. [[1](https://arxiv.org/abs/2404.07897)] and [[2](https://arxiv.org/abs/2505.05272)].
 
 **If you use files from the repository for a publication, please cite these references:**
 
-[[1](https://arxiv.org/abs/2404.07897)] D. Jurčiukonis and L. Lavoura, On the addition of a large scalar multiplet to the Standard Model, [arXiv:2404.07897](https://arxiv.org/abs/2404.07897).
+[[1](https://arxiv.org/abs/2404.07897)] D. Jurčiukonis and L. Lavoura, On the addition of a large scalar multiplet to the Standard Model, PTEP **2024**, 083B06 (2024) [arXiv:2404.07897](https://arxiv.org/abs/2404.07897).
 
-[[2](https://arxiv.org/abs/2505.05272)] A. Milagre, D. Jurčiukonis, and L. Lavoura, Vacuum Stability Conditions for New SU(2) Multiplets, [arXiv:2505.05272](https://arxiv.org/abs/2505.05272).
+[[2](https://arxiv.org/abs/2505.05272)] A. Milagre, D. Jurčiukonis, and L. Lavoura, Vacuum Stability Conditions for New SU(2) Multiplets, PTEP **2025**, 093B01 (2025) [arXiv:2505.05272](https://arxiv.org/abs/2505.05272).
