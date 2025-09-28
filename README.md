@@ -2,9 +2,9 @@
 
 The functions and networks, together with computational examples in Mathematica notebook files, for the paper "Applications of Machine Learning in Constraining Multi-Scalar Models".
 
-- The Mathematica notebook for model with quadruplet ["Quadruplet.nb"](https://github.com/jurciukonis/ML-for-multiplets/blob/main/Quadruplet.nb).
+- The Mathematica notebook for model with quadruplet ["Quadruplet.nb"](https://github.com/jurciukonis/ML-for-multiples/blob/main/Quadruplet.nb).
 
-- The Mathematica notebook for model with sixplet ["Sixplet.nb"](https://github.com/jurciukonis/ML-for-multiplets/blob/main/ixplet.nb).
+- The Mathematica notebook for model with sixplet ["Sixplet.nb"](https://github.com/jurciukonis/ML-for-multiples/blob/main/Sixplet.nb).
 
 - For more information about the models and obtained results see refs. [[1](https://arxiv.org/abs/2404.07897)] and [[2](https://arxiv.org/abs/2505.05272)].
 
