@@ -1,4 +1,4 @@
-# Machine Learning approache for extensions of the Standard Model with additional SU(2) multiplets.
+# Machine Learning Approach for Extensions of the Standard Model with Additional SU(2) Multiplets
 
 The functions and networks, together with computational examples in Mathematica notebook files, for the paper "Applications of Machine Learning in Constraining Multi-Scalar Models".
 
